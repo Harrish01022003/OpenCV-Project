@@ -4,9 +4,6 @@ import cvzone
 import numpy as np
 
 # Video feed
-#cap = cv2.VideoCapture('carPark.mp4')
-#Live camera
-cap = cv2.VideoCapture(0)
 
 with open('CarParkPos', 'rb') as f:
     posList = pickle.load(f)
