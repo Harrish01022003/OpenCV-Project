@@ -1,2 +1,2 @@
-# Project
-Open CV project
+# Parking Space Management system
+python OpenCV project
